@@ -1,5 +1,7 @@
 # Akbank_DeepLearning
 
+# https://www.kaggle.com/code/tahaekin/akbank-bootcamp-fish-classification
+
 In this Fish Classification project I combined what I could learn from varies differente 
 
 The things I'm going to say into words in this fish classification project I come back what I learned from various different sources and using those sources I have made a neural network using ANN
